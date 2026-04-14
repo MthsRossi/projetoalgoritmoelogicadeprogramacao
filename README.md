@@ -86,6 +86,14 @@ https://www.python.org/
 git clone https://github.com/seu-usuario/seu-repositorio.git
 3. Acessar a pasta do projeto
 cd seu-repositorio
+
+### 2. Clonar o repositório
+
+----
+
+### 2. Clonar o repositório
+
+---
 4. Executar o programa
 python nome_do_arquivo.py
 🧪 Exemplos de Uso
