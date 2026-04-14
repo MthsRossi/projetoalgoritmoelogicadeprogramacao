@@ -35,7 +35,7 @@ Este projeto foi desenvolvido como parte da disciplina de Algoritmos e Lógica d
 2. Execute:
 
 ```
-python nome_do_arquivo.py
+python programa.py
 ```
 
 ---
@@ -54,22 +54,34 @@ Peça aprovada
 ---
 
 ## 📊 Relatório
+O sistema gera um relatório contendo:
 
-- Total de peças
-- Aprovadas e reprovadas
-- Motivos de erro
-- Caixas usadas
+- Total de peças cadastradas
+- Total de peças aprovadas
+- Total de peças reprovadas
+- Motivos de reprovação
+- Quantidade de caixas fechadas
+- Peças na caixa atual
+
 
 ---
 
 ## 🚀 Melhorias futuras
+O sistema pode ser expandido para um cenário real com:
 
-- Banco de dados
-- Interface gráfica
-- Integração com sensores
+- 💾 Integração com banco de dados (MySQL, SQLite)
+- 🖥 Interface gráfica (Tkinter, PyQt)
+- 📡 Integração com sensores industriais
+- 🤖 Uso de inteligência artificial para análise de qualidade
+- 📊 Dashboard para visualização em tempo real
+- 🌐 Integração com sistemas ERP industriais
 
 ---
 
 ## 👨‍💻 Autor
 
-Matheus
+Matheus Fernando Rossi
+
+Disciplina: Algoritmos e Lógica de Programação
+Curso: (coloque seu curso aqui)
+Instituição: (coloque sua faculdade aqui)
