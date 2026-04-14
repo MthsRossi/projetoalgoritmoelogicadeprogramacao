@@ -85,6 +85,7 @@ https://www.python.org/
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
+---
 
 ### 3. Acessar a pasta do projeto
 cd seu-repositorio
