@@ -2,17 +2,20 @@
 
 ## 📌 Descrição do Projeto
 
-Este projeto foi desenvolvido como parte da disciplina de Algoritmos e Lógica de Programação. O objetivo é simular um sistema de automação industrial para controle de produção e qualidade de peças.
+Este projeto foi desenvolvido como parte da disciplina de **Algoritmos e Lógica de Programação**, com o objetivo de simular um sistema de automação industrial para controle de produção e qualidade de peças.
 
+A solução automatiza a análise de peças produzidas em uma linha de montagem, aplicando critérios de qualidade, classificando os itens e organizando o armazenamento das peças aprovadas em caixas com capacidade limitada.
 ---
 
 ## 🎯 Objetivo
 
-- Receber dados de peças
-- Validar automaticamente a qualidade
-- Classificar peças (aprovadas/reprovadas)
-- Armazenar em caixas de até 10 unidades
-- Gerar relatórios
+Desenvolver um sistema em Python capaz de:
+
+- Receber dados de peças produzidas
+- Validar automaticamente critérios de qualidade
+- Classificar peças como aprovadas ou reprovadas
+- Armazenar peças aprovadas em caixas de até 10 unidades
+- Gerar relatórios consolidados para análise
 
 ---
 
