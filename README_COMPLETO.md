@@ -55,7 +55,7 @@ A solução automatiza a análise de peças produzidas em uma linha de montagem,
 2. Execute:
 
 ```
-python nome_do_arquivo.py
+python programa.py
 ```
 
 ---
